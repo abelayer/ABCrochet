@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/Draw-Eraser.png</file>
+        <file>pics/Draw-Line.png</file>
+        <file>pics/Paintbrush.png</file>
+        <file>pics/Paintcan.png</file>
+        <file>pics/Select-Restangular.png</file>
+        <file>pics/Arrow-Redo.png</file>
+        <file>pics/Arrow-Undo.png</file>
+        <file>pics/Cut.png</file>
+        <file>pics/Document-Empty.png</file>
+        <file>pics/Document-Export.png</file>
+        <file>pics/Folder.png</file>
+        <file>pics/Page-White-Copy.png</file>
+        <file>pics/Page-White-Paste.png</file>
+        <file>pics/Disk.png</file>
+        <file>pics/Setting-Tools.png</file>
+        <file>pics/Save-As.png</file>
+        <file>pics/brushCursor.png</file>
+        <file>pics/fillCursor.png</file>
+        <file>pics/lineCursor.png</file>
+        <file>pics/eraserCursor.png</file>
+        <file>pics/Zoom-In.png</file>
+        <file>pics/Zoom-Out.png</file>
+        <file>pics/BlackWhite.png</file>
+        <file>pics/print.png</file>
+        <file>pics/greyscale.png</file>
+    </qresource>
+</RCC>
